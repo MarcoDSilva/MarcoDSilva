@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently looking for a junior dev position (C# / webdev / other).
+- 🌱 I’m currently learning Python with MITx and React with full stack open.
+- 👯 I’m looking to collaborate on open source projects. 
+
 <!--
 **MarcoDSilva/MarcoDSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
