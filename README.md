@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/marcodisilva/" alt="Linkedin">
       <img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/IN.png" />
     </a>
-    <a href="malito:marcodisilva@gmail.com" alt="contact me">
+    <a href="mailto:marcodisilva@gmail.com" alt="contact me">
       <img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/mail.png" />
     </a>
   </div>
