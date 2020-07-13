@@ -4,10 +4,21 @@
 - 🌱 I’m currently learning Python with MITx and React with full stack open.
 - 👯 I’m looking to collaborate on open source projects. 
 
-<p align="center">
-  <a href="#" alt="Twitter"><img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/twitter.png"></a>
-  <a href="#" alt="Linkedin"><img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/IN.png" ></a>
-  <a href="malito:marcodisilva@gmail.com" alt="contact me"><img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/mail.png"></a>
+<hr>
+<p>
+  <h5>Let's connect!</h5>  
+  
+  <div align="center">
+    <a href="https://twitter.com/marcodisilva" alt="Twitter">
+      <img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/twitter.png" />
+    </a>
+    <a href="https://www.linkedin.com/in/marcodisilva/" alt="Linkedin">
+      <img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/IN.png" />
+    </a>
+    <a href="malito:marcodisilva@gmail.com" alt="contact me">
+      <img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/mail.png" />
+    </a>
+  </div>
  </p>
 
 <!--
