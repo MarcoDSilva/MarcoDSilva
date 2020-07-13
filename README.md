@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning Python with MITx and React with full stack open.
 - 👯 I’m looking to collaborate on open source projects. 
 
+<p align="center">
+  <a href="#" alt="Twitter"><img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/twitter.png"></a>
+  <a href="#" alt="Linkedin"><img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/IN.png" ></a>
+  <a href="malito:marcodisilva@gmail.com" alt="contact me"><img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/mail.png"></a>
+ </p>
+
 <!--
 **MarcoDSilva/MarcoDSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
