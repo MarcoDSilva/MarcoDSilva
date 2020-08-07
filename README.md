@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a junior dev position (C# / webdev / other).
-- 🌱 I’m currently learning Python with MITx and React with full stack open.
+- 🔭 I’m currently looking for a junior dev position (C# (.net) / webdev / unity / other).
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on open source projects. 
-
+- ⚡ Fun fact: Studied 3D in the past and am learning Blender. :)
 <hr>
 <p>
   <h5>Let's connect!</h5>  
