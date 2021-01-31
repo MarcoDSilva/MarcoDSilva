@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a junior dev position (C# (.net) / webdev / unity / other).
-- 👯 I’m looking to collaborate on open source projects. 
-- ⚡ Fun fact: Studied 3D in the past and am learning Blender. :)
+- 🔭 I’m currently a software developer working with php / javascript / vue.js and three.js
+- ⚡ Fun fact: Studied 3D in the past and while learning Blender, now ended up using it in my software developer job. Funny world.
+- 🌱 I’m currently learning game development. And development in general, we never stop learning and there is so much to learn.
+
 <hr>
 <p>
   <h5>Let's connect!</h5>  
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on open source projects. 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
