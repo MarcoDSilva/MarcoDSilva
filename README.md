@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a software developer working with php / javascript / vue.js and three.js
+- 🔭 I’m currently open for new job opportunities. 
 - ⚡ Fun fact: Studied 3D in the past and while learning Blender, now ended up using it in my software developer job. Funny world.
-- 🌱 I’m currently learning game development. And development in general, we never stop learning and there is so much to learn.
+- 🌱 I’m currently learning Ruby. Interesting language, let's see if I can do anything with it and React.
 
 <hr>
 <p>
