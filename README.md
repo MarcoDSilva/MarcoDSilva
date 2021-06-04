@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently open for new job opportunities. 
 - ⚡ Fun fact: Studied 3D in the past and while learning Blender, now ended up using it in my software developer job. Funny world.
-- 🌱 I’m currently learning Ruby. Interesting language, let's see if I can do anything with it and React.
+- 🌱 Currently learning Django.
 
 <hr>
 <p>
