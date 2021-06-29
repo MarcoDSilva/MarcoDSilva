@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently open for new job opportunities. 
-- ⚡ Fun fact: Studied 3D in the past and while learning Blender, now ended up using it in my software developer job. Funny world.
-- 🌱 Currently learning Django.
-
+- 
 <hr>
 <p>
   <h5>Let's connect!</h5>  
