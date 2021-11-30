@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently open for new job opportunities. 
-- 
+- Full stack developer
+- Currently working ona discord/twitch bot
 <hr>
 <p>
   <h5>Let's connect!</h5>  
