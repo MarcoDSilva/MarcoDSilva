@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- Full stack developer
-- Currently working ona discord/twitch bot
+- 🔭 I’m currently working as a .NET Full stack developer
+- 🌱 I’m currently learning OpenGL. mostly for fun.
+- 📫 How to reach me: Follow the links above but may take some time to answer.
+
 <hr>
 <p>
   <h5>Let's connect!</h5>  
