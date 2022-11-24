@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a .NET Full stack developer
-- 🌱 I’m currently learning OpenGL. mostly for fun.
+- 🔭 I’m currently working as a .NET Full developer
 - 📫 How to reach me: Follow the links above but may take some time to answer.
 
 <hr>
