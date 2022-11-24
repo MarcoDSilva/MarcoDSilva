@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a .NET Full developer
+- 🔭 I’m currently working as a .NET developer
 - 📫 How to reach me: Follow the links above but may take some time to answer.
 
 <hr>
