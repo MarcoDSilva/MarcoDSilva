@@ -8,9 +8,6 @@
   <h5>Let's connect!</h5>  
   
   <div align="center">
-    <a href="https://twitter.com/marcodisilva" alt="Twitter">
-      <img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/twitter.png" />
-    </a>
     <a href="https://www.linkedin.com/in/marcodisilva/" alt="Linkedin">
       <img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/IN.png" />
     </a>
