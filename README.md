@@ -1,21 +1,37 @@
-### Hi there 👋
+# Hi, I'm Marco 👋
 
-- 🔭 I’m currently working as a .NET developer
-- 📫 How to reach me: Follow the links above but may take some time to answer.
+I'm a **.NET Engineer** focused on building robust backend systems, currently expanding into **Cybersecurity** and tinkering with **Rust**.
 
-<hr>
-<p>
-  <h5>Let's connect!</h5>  
-  
-  <div align="center">
-    <a href="https://www.linkedin.com/in/marcodisilva/" alt="Linkedin">
-      <img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/IN.png" />
-    </a>
-    <a href="mailto:marcodisilva@gmail.com" alt="contact me">
-      <img src="https://github.com/MarcoDSilva/MarcoDSilva/blob/master/img/mail.png" />
-    </a>
-  </div>
- </p>
+---
+
+### 🔭 What I'm Up To
+- 💼 Working professionally with **C#** and **.NET**
+- 🛡️ Studying **Application Security** and offensive/defensive security fundamentals
+- 🦀 Experimenting with low-level systems programming in **Rust**
+<!-- - ✍️ Writing about development, architecture, and security on [my blog](https://your-blog-url.com) -->
+
+---
+
+### 🛠️ Tech Stack & Focus Areas
+- **Backend:** C#, .NET 8+, ASP.NET Core, Entity Framework, SQL / PostgreSQL
+<!-- - **Security & Systems:**  Rust, Linux, Containers, Network Security, OWASP Top 10 -->
+- **Practices:** Clean Architecture, REST APIs, CI/CD, Secure Coding
+
+---
+
+### 📊 GitHub Activity
+<p align="left">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=MarcoDSilva&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoDSilva&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Connect With Me
+<!-- - 🌐 **Blog:** [your-blog-url.com](https://your-blog-url.com) -->
+- 💼 **LinkedIn:** [linkedin.com/in/marcodisilva](https://www.linkedin.com/in/marcodisilva)
+- ✉️ **Email:** [marcodisilva@gmail.com](mmailto:marcodisilva@gmail.com)
+
 
 <!--
 **MarcoDSilva/MarcoDSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
