@@ -30,7 +30,7 @@ I'm a **.NET Engineer** focused on building robust backend systems, currently ex
 ### 📬 Connect With Me
 <!-- - 🌐 **Blog:** [your-blog-url.com](https://your-blog-url.com) -->
 - 💼 **LinkedIn:** [linkedin.com/in/marcodisilva](https://www.linkedin.com/in/marcodisilva)
-- ✉️ **Email:** [marcodisilva@gmail.com](mmailto:marcodisilva@gmail.com)
+- ✉️ **Email:** [marcodisilva@gmail.com](mailto:marcodisilva@gmail.com)
 
 
 <!--
